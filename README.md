@@ -12,13 +12,13 @@ We need this to turn off the validation of the self-signed certificate.
 
 Installing the server:
 
-```
+```bash
 npm install
 ```
 
 Running the server:
 
-```
+```bash
 node server
 ```
 
