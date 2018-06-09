@@ -24,7 +24,7 @@ node server
 
 Example
 
-```
+```bash
 19:48 $ node server
 received: hello from client
 ```
